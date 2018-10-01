@@ -1,4 +1,4 @@
-codeigniter_session_parser
+codeigniter_cookie_parser
 ==================
 
 Installation
