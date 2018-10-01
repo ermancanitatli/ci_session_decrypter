@@ -1,4 +1,4 @@
-ci_session_decrypter
+codeigniter_session_parser
 ==================
 
 Installation
