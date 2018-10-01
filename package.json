@@ -1,0 +1,21 @@
+{
+  "name": "ci_session_decrypter",
+  "version": "1.0.1",
+  "description": "session decrypt for ci",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "codeigniter",
+    "session",
+    "decrypter"
+  ],
+  "author": "ermancanitatli",
+  "license": "ISC",
+  "dependencies": {
+    "php-session-unserialize": "^0.2.1",
+    "php-unserialize": "0.0.1",
+    "redis": "^2.8.0"
+  }
+}
