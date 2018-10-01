@@ -1,4 +1,4 @@
-ci_session decrypt
+ci_session_decrypter
 ==================
 
 Installation
