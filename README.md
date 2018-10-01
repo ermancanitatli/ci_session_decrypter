@@ -15,7 +15,7 @@ npm install ci_session_decrypter
 The use it the usual way :
 
 ```javascript
-var CI_decrypter = require('../index');
+var CI_decrypter = require('ci_session_decrypter');
 
 var options = {
     cookie_name: 'ci_session',
